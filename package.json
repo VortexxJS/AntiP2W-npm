@@ -1,0 +1,25 @@
+{
+  "name": "antip2w-npm",
+  "version": "1.0.0",
+  "description": "The AntiP2W-npm package was made to make your life easier using the AntiP2W API (DataBase). Join our discord to get access: https://discord.gg/antip2w",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VortexxJS/AntiP2W-npm.git"
+  },
+  "keywords": [
+    "javascript",
+    "axios",
+    "wrapper",
+    "api"
+  ],
+  "author": "VortexJS",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/VortexxJS/AntiP2W-npm/issues"
+  },
+  "homepage": "https://github.com/VortexxJS/AntiP2W-npm#readme"
+}
